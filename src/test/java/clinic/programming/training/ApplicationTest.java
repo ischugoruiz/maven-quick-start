@@ -1,4 +1,4 @@
-package clinic.programming.training;
+package clinic.programming.trainig;
 
 import org.junit.Before;
 import org.junit.Ignore;
